@@ -1,0 +1,3 @@
+defaultargs = {
+    'resolution': 400,
+}
